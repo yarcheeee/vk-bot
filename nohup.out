@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/yarche/Downloads/VK-Education-Projects-chatbot-main 2/source/main.py", line 14, in <module>
+    from source.config import TOKEN, GROUP_ID        # Токен сообщества и его ID
+ModuleNotFoundError: No module named 'source'
